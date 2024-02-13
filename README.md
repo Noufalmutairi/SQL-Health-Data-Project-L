@@ -19,24 +19,11 @@ This project involves analyzing a dataset covering 16 regions in Saudi Arabia, f
 5. **Age Distribution**
    - Analyze the age distribution of patients to understand the prevalence of cutaneous leishmaniasis across different age groups.
 
-## Recommendations
 
-1. **Strengthen Surveillance and Reporting**
-   - Implement an enhanced surveillance system to ensure timely and accurate reporting of cutaneous leishmaniasis cases. This will facilitate early detection and effective response to outbreaks.
-
-2. **Targeted Interventions**
-   - Allocate additional resources and implement targeted interventions, such as vector control measures and public awareness campaigns, in regions witnessing a high increase in cases. Focus on regions like Al Ahsa, Hail, Aseer, Qassem, and Medinah.
-
-3. **Vulnerable Population Focus**
-   - Develop strategies to address the needs of vulnerable populations, including children aged 10 to 15 and individuals aged 45 and above, who are more susceptible to cutaneous leishmaniasis.
-
-4. **Collaborative Efforts**
-   - Promote collaboration among health organizations, research institutions, and stakeholders to encourage data sharing, research initiatives, and joint efforts in combating cutaneous leishmaniasis.
-
-## Read the Article
+## Additional Resources:
 For a deeper understanding, read the article on LinkedIn: [Cutaneous Leishmaniosis Cases in Saudi Arabia: SQL Analysis](https://www.linkedin.com/in/nouf-almutairi-5671132a2/)
 
-## Contact Information
+## Contact Information:
 feel free to contact [Nouf Almutairi](https://www.linkedin.com/in/nouf-almutairi-5671132a2/) on LinkedIn.
 
 
