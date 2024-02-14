@@ -2,22 +2,38 @@
 
 This project involves analyzing a dataset covering 16 regions in Saudi Arabia, focusing on cutaneous leishmaniasis cases from 2018 to 2022. The dataset includes patient numbers, demographics (Saudis vs. non-Saudis, residents vs. non-residents, males vs. females), and age distribution from less than 1 year to over 45 years.
 
-## Key Insights to Explore
 
-1. **Distribution of Cutaneous Leishmaniasis**
-   - Analyze the overall distribution of cutaneous leishmaniasis cases across the regions.
+## Queries Overview
 
-2. **Regions with the Highest Increase in Patient Numbers**
-   - Identify the five regions with the highest increase in the number of patients over the specified period.
+### Descriptive Statistics Query
+- Computes descriptive statistics such as counts, totals, averages, minimums, maximums, and standard deviations for regions.
+- Utilizes SQL aggregation functions and subqueries.
 
-3. **Regions with Increasing Trends from 2018 to 2022**
-   - Determine which regions are experiencing an increase in cutaneous leishmaniasis cases from 2018 to 2022.
+### Yearly Average and Standard Deviation Query
+- Calculates the average and standard deviation for each year independently.
+- Efficiently uses aggregation functions for different subsets of data.
 
-4. **Demographics Distribution**
-   - Explore the distribution of patients based on demographics, including nationality (Saudis vs. non-Saudis) and residency status (residents vs. non-residents).
+### Top 5 Regions Query
+- Retrieves the top 5 regions based on total patients.
+- Utilizes `ORDER BY` and `LIMIT` clauses for result set manipulation.
 
-5. **Age Distribution**
-   - Analyze the age distribution of patients to understand the prevalence of cutaneous leishmaniasis across different age groups.
+### Percentage Change in Patients Query
+- Calculates the percentage change in patients' numbers between 2018 and 2022 for each region.
+- Utilizes conditional logic (`CASE` statement) for categorizing changes.
+
+### Total Patients for Each Age Group Query
+- Aggregates data for each age group and calculates total patients.
+- Demonstrates proficiency in grouping data and calculating totals.
+
+### Regions with Increase in Patients Query
+- Filters regions where the number of patients increased from 2018 to 2022.
+- Utilizes `WHERE` clause for conditional filtering.
+
+### Demographics Information Query
+- Aggregates demographic information such as total males, total females, Saudis, non-Saudis, residents, and non-residents.
+- Demonstrates proficiency in summarizing categorical data.
+
+
 
 
 ## Additional Resources:
