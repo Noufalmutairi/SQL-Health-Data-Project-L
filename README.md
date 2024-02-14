@@ -21,7 +21,7 @@ This project involves analyzing a dataset covering 16 regions in Saudi Arabia, f
 
 
 ## Additional Resources:
-For a deeper understanding, read the article on LinkedIn: [Cutaneous Leishmaniosis Cases in Saudi Arabia: SQL Analysis](https://www.linkedin.com/in/nouf-almutairi-5671132a2/)
+Read the article for deeper understanding: [Cutaneous Leishmaniosis Cases in Saudi Arabia: SQL Analysis](https://www.linkedin.com/in/nouf-almutairi-5671132a2/)
 
 ## Contact Information:
 feel free to contact [Nouf Almutairi](https://www.linkedin.com/in/nouf-almutairi-5671132a2/) on LinkedIn.
