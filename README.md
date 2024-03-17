@@ -1,6 +1,10 @@
 # Cutaneous Leishmaniosis Cases in Saudi Arabia: SQL Analysis
 
-This project involves analyzing a dataset covering 16 regions in Saudi Arabia, focusing on cutaneous leishmaniasis cases from 2018 to 2022. The dataset includes patient numbers, demographics (Saudis vs. non-Saudis, residents vs. non-residents, males vs. females), and age distribution from less than 1 year to over 45 years.
+## Overview
+Analyzing cutaneous leishmaniasis data in Saudi Arabia (2018-2022) for resource allocation decisions.
+
+## Dataset
+- **Source:** [Here](https://od.data.gov.sa/Data/ar/dataset/reported-cases-of-cutaneous-leishmaniasis-by-month-nationality-sex-residence-and-age-group-2018-2022)]
 
 
 ## Queries Overview
